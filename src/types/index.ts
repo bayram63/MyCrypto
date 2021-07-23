@@ -89,7 +89,9 @@ export {
   TStepAction,
   TxQueryTypes,
   ITxMultiConfirmProps,
-  IFlowConfig
+  IFlowConfig,
+  TxType,
+  ITxTypeMeta
 } from './transactionFlow';
 export { JsonRPCResponse } from './jsonRPCResponse';
 export { IAppRoute, IRoutePath, IRoutePaths } from './routes';
